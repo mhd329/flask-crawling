@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d910bf03-d0b3-48e1-beb9-bc944e0360a2" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/crawler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +309,7 @@
       <workItem from="1695613977155" duration="878000" />
       <workItem from="1695617969086" duration="1218000" />
       <workItem from="1695621438007" duration="4017000" />
-      <workItem from="1695722255077" duration="15719000" />
+      <workItem from="1695722255077" duration="17733000" />
     </task>
     <servers />
   </component>
